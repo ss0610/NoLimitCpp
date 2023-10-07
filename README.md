@@ -8,116 +8,163 @@ Welcome to a collection of fundamental C++ programming challenges! These exercis
 
 ## Basic Concepts
 
-1. **Hello, World!**: Print "Hello, World!" to the console.
+# Programming Tasks
 
-2. **Sum of Two Numbers**: Calculate and display the sum of two numbers.
+## Basic Operations
 
-3. **Product of Two Numbers**: Calculate and display the product of two numbers.
+### 1. Factorial
+Find and display the factorial of a given number.
 
-4. **Factorial**: Find and display the factorial of a given number.
+### 2. Even or Odd
+Check if a number is even or odd.
 
-5. **Even or Odd**: Check if a number is even or odd.
+### 3. Prime Number Check
+Check if a number is prime.
 
-6. **Prime Number Check**: Check if a number is prime.
+### 4. Largest Among Three
+Find and display the largest among three numbers.
 
-7. **Largest Among Three**: Find and display the largest among three numbers.
-
-8. **Smallest Among Three**: Find and display the smallest among three numbers.
+### 5. Smallest Among Three
+Find and display the smallest among three numbers.
 
 ## Mathematical Operations
 
-9. **Square Root**: Calculate and display the square root of a number.
+### 6. Square Root
+Calculate and display the square root of a number.
 
-10. **Power**: Calculate and display the result of a^b.
+### 7. Power
+Calculate and display the result of a^b.
 
-11. **Sum of Even Numbers**: Find and display the sum of all even numbers between 1 and N.
+### 8. Sum of Even Numbers
+Find and display the sum of all even numbers between 1 and N.
 
-12. **Sum of Odd Numbers**: Find and display the sum of all odd numbers between 1 and N.
+### 9. Sum of Odd Numbers
+Find and display the sum of all odd numbers between 1 and N.
 
-13. **Average of N Numbers**: Calculate and display the average of N numbers.
+### 10. Average of N Numbers
+Calculate and display the average of N numbers.
 
-14. **GCD (Greatest Common Divisor)**: Find and display the GCD of two numbers.
+### 11. GCD (Greatest Common Divisor)
+Find and display the GCD of two numbers.
 
-15. **LCM (Least Common Multiple)**: Find and display the LCM of two numbers.
+### 12. LCM (Least Common Multiple)
+Find and display the LCM of two numbers.
 
 ## String Manipulation
 
-16. **Reverse a Number**: Reverse and display a given number.
+### 13. Reverse a Number
+Reverse and display a given number.
 
-17. **Palindrome Check**: Check if a string is a palindrome.
+### 14. Palindrome Check
+Check if a string is a palindrome.
 
-18. **Count Vowels and Consonants**: Count and display the number of vowels and consonants in a string.
+### 15. Count Vowels and Consonants
+Count and display the number of vowels and consonants in a string.
 
-19. **Convert to Uppercase**: Convert a lowercase string to uppercase.
+### 16. Convert to Uppercase
+Convert a lowercase string to uppercase.
 
-20. **Convert to Lowercase**: Convert an uppercase string to lowercase.
+### 17. Convert to Lowercase
+Convert an uppercase string to lowercase.
 
-21. **String Length**: Calculate and display the length of a string.
+### 18. String Length
+Calculate and display the length of a string.
 
-22. **String Concatenation**: Concatenate two strings.
+### 19. String Concatenation
+Concatenate two strings.
 
-23. **Substring Check**: Check if a string contains a specific substring.
+### 20. Substring Check
+Check if a string contains a specific substring.
 
-24. **Remove Spaces**: Remove spaces from a string.
+### 21. Remove Spaces
+Remove spaces from a string.
 
-25. **Count Words**: Count the number of words in a string.
+### 22. Count Words
+Count the number of words in a string.
 
 ## Array Manipulation
 
-26. **Largest Element**: Find and display the largest element in an array.
+### 23. Largest Element
+Find and display the largest element in an array.
 
-27. **Smallest Element**: Find and display the smallest element in an array.
+### 24. Smallest Element
+Find and display the smallest element in an array.
 
-28. **Sum of Array Elements**: Calculate and display the sum of all elements in an array.
+### 25. Sum of Array Elements
+Calculate and display the sum of all elements in an array.
 
-29. **Average of Array Elements**: Calculate and display the average of elements in an array.
+### 26. Average of Array Elements
+Calculate and display the average of elements in an array.
 
-30. **Element Search**: Search for an element in an array.
+### 27. Element Search
+Search for an element in an array.
 
-31. **Ascending Sort**: Sort an array in ascending order (e.g., using bubble sort).
+### 28. Ascending Sort
+Sort an array in ascending order (e.g., using bubble sort).
 
-32. **Descending Sort**: Sort an array in descending order.
+### 29. Descending Sort
+Sort an array in descending order.
 
-33. **Second Largest Element**: Find and display the second largest element in an array.
+### 30. Second Largest Element
+Find and display the second largest element in an array.
 
-34. **Second Smallest Element**: Find and display the second smallest element in an array.
+### 31. Second Smallest Element
+Find and display the second smallest element in an array.
 
 ## Advanced Topics
 
-35. **Fibonacci Series**: Generate and display the Fibonacci series up to N terms.
+### 32. Fibonacci Series
+Generate and display the Fibonacci series up to N terms.
 
-36. **Binary Search**: Implement a binary search algorithm.
+### 33. Binary Search
+Implement a binary search algorithm.
 
-37. **Triangle Area**: Calculate and display the area of a triangle given its base and height.
+### 34. Triangle Area
+Calculate and display the area of a triangle given its base and height.
 
-38. **Circle Area**: Calculate and display the area of a circle given its radius.
+### 35. Circle Area
+Calculate and display the area of a circle given its radius.
 
-39. **Rectangle Area**: Calculate and display the area of a rectangle given its length and width.
+### 36. Rectangle Area
+Calculate and display the area of a rectangle given its length and width.
 
-40. **Square Area**: Calculate and display the area of a square given its side length.
+### 37. Square Area
+Calculate and display the area of a square given its side length.
 
 ## Number Conversions
 
-41. **Decimal to Binary**: Convert a decimal number to binary.
+### 38. Decimal to Binary
+Convert a decimal number to binary.
 
-42. **Binary to Decimal**: Convert a binary number to decimal.
+### 39. Binary to Decimal
+Convert a binary number to decimal.
 
-43. **Decimal to Hexadecimal**: Convert a decimal number to hexadecimal.
+### 40. Decimal to Hexadecimal
+Convert a decimal number to hexadecimal.
 
-44. **Hexadecimal to Decimal**: Convert a hexadecimal number to decimal.
+### 41. Hexadecimal to Decimal
+Convert a hexadecimal number to decimal.
 
-45. **Sum of Digits**: Calculate and display the sum of digits of a number.
+### 42. Sum of Digits
+Calculate and display the sum of digits of a number.
 
-46. **Product of Digits**: Calculate and display the product of digits of a number.
+### 43. Product of Digits
+Calculate and display the product of digits of a number.
 
-47. **Palindrome Check for Numbers**: Check if a number is a palindrome.
+### 44. Palindrome Check for Numbers
+Check if a number is a palindrome.
 
-48. **Prime Factors**: Find and display the prime factors of a number.
+### 45. Prime Factors
+Find and display the prime factors of a number.
 
 ## Bonus Challenge
 
-49. **Simple Calculator**: Implement a simple calculator (addition, subtraction, multiplication, division).
-50. **Prime Number**: Generate the first N prime numbers.
+### 46. Simple Calculator
+Implement a simple calculator (addition, subtraction, multiplication, division).
+
+### 47. Prime Number
+Generate the first N prime numbers.
+
 
 
 Feel free to pick any challenge that interests you and start coding! Happy coding! 🚀
