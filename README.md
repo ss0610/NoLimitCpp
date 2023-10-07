@@ -15,7 +15,7 @@ Welcome to a collection of fundamental C++ programming challenges! These exercis
 ### 1. Factorial
 Find and display the factorial of a given number.
 
-### 2. Even or Odd
+2. Even or Odd
 Check if a number is even or odd.
 
 ### 3. Prime Number Check
