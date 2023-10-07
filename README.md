@@ -44,7 +44,7 @@ Find and display the sum of all odd numbers between 1 and N.
 ### 10. Average of N Numbers
 Calculate and display the average of N numbers.
 
-### 11. GCD (Greatest Common Divisor)
+11. GCD (Greatest Common Divisor)
 Find and display the GCD of two numbers.
 
 ### 12. LCM (Least Common Multiple)
